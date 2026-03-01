@@ -1,2 +1,2 @@
-["test", "test2", "test3"]
+["test", "test2", "test3"];
 ["val1", "val2", "val3"]
